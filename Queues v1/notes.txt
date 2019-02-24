@@ -1,0 +1,3 @@
+RandomizedQueue.java uses linked list for queue. 
+Dequeue function is not as fast as amortized constant time (but still you can get 95 points).
+Using sentinel nodes might make things faster.

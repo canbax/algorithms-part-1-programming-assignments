@@ -1,0 +1,2 @@
+RandomizedQueue.java uses array for queue. 
+To dequeue it selects an array element uniformly randomly. To get rid of shifting array, it exchanges last one with selected and deletes selected value
