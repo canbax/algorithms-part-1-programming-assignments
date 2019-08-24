@@ -1,0 +1,1351 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FastCollinearPoints<Coll2>",
+            "request": "launch",
+            "mainClass": "FastCollinearPoints",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point<Coll2>",
+            "request": "launch",
+            "mainClass": "Point",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAlgs4<Coll2>",
+            "request": "launch",
+            "mainClass": "TestAlgs4",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AVLTreeST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AVLTreeST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Accumulator<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Accumulator",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicLP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicLP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AcyclicSP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AcyclicSP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdjMatrixEdgeWeightedDigraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AdjMatrixEdgeWeightedDigraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Alphabet<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Alphabet",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlag<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlag",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmericanFlagX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AmericanFlagX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arbitrage<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Arbitrage",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssignmentProblem<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.AssignmentProblem",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Average",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BTree<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BTree",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bag<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bag",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFordSP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BellmanFordSP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryDump<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryDump",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryIn<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryIn",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryInsertion<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryInsertion",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOut<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryOut",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearch",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinarySearchST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdIn<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdIn",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryStdOut<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BinaryStdOut",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bipartite<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Bipartite",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteMatching<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteMatching",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BipartiteX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BlackFilter<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BlackFilter",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoruvkaMST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoruvkaMST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoore<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BoyerMoore",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstDirectedPaths<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstDirectedPaths",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BreadthFirstPaths<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.BreadthFirstPaths",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CC<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CC",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CPM<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CPM",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cat<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cat",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ClosestPair<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ClosestPair",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollisionSystem<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.CollisionSystem",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Complex<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Complex",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Count<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Count",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Counter<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Counter",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cycle<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Cycle",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Date<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Date",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeDup<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DeDup",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DegreesOfSeparation<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DegreesOfSeparation",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstDirectedPaths<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstDirectedPaths",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstOrder<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstOrder",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstPaths<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstPaths",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirstSearch<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DepthFirstSearch",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Digraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigraphGenerator<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DigraphGenerator",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraAllPairsSP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraAllPairsSP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraSP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraSP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijkstraUndirectedSP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DijkstraUndirectedSP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycle<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycle",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedCycleX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedCycleX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedDFS<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedDFS",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEdge<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEdge",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianCycle<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianCycle",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DirectedEulerianPath<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DirectedEulerianPath",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingRatio<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingRatio",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublingTest<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.DoublingTest",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Draw<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Draw",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Edge<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Edge",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDigraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDigraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedDirectedCycle<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedDirectedCycle",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EdgeWeightedGraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EdgeWeightedGraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianCycle<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianCycle",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EulerianPath<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.EulerianPath",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FFT<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FFT",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FarthestPair<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FarthestPair",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FenwickTree<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FenwickTree",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileIndex<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FileIndex",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowEdge<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowEdge",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlowNetwork<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FlowNetwork",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FloydWarshall",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FordFulkerson<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FordFulkerson",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FrequencyCounter<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.FrequencyCounter",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GREP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GREP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GabowSCC<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GabowSCC",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussJordanElimination<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussJordanElimination",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaussianElimination<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GaussianElimination",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Genome<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Genome",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GlobalMincut<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GlobalMincut",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrahamScan<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrahamScan",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Graph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphGenerator<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GraphGenerator",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GrayscalePicture<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.GrayscalePicture",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Heap",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HexDump<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HexDump",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HopcroftKarp<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.HopcroftKarp",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Huffman<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Huffman",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-In<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.In",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMaxPQ<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMaxPQ",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IndexMinPQ<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.IndexMinPQ",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InplaceMSD<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InplaceMSD",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Insertion<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Insertion",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.InsertionX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval1D<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval1D",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Interval2D<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Interval2D",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Inversions<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Inversions",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KMP<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KMP",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KWIK<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KWIK",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knuth<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Knuth",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KosarajuSharirSCC<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KosarajuSharirSCC",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalMST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.KruskalMST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSD<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LSD",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LZW<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LZW",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LazyPrimMST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LazyPrimMST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProbingHashST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProbingHashST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinearProgramming<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinearProgramming",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedBag<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedBag",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedQueue<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedQueue",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedStack<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LinkedStack",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestCommonSubstring",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestRepeatedSubstring<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LongestRepeatedSubstring",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupCSV<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupCSV",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LookupIndex<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.LookupIndex",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MSD<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MSD",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxPQ<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MaxPQ",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Merge<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Merge",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeBU<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeBU",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MergeX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinPQ<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.MinPQ",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multiway<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Multiway",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NFA<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NFA",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDFS<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDFS",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NonrecursiveDirectedDFS<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.NonrecursiveDirectedDFS",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Out<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Out",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaSET<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaSET",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PatriciaST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PatriciaST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Picture<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Picture",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PictureDump<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PictureDump",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Point2D<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Point2D",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Polynomial<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Polynomial",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimMST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.PrimMST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Queue<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Queue",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3string<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3string",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Quick3way<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Quick3way",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickBentleyMcIlroy<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickBentleyMcIlroy",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickFindUF<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickFindUF",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickUnionUF<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickUnionUF",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.QuickX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RabinKarp<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RabinKarp",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSeq<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RandomSeq",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RedBlackBST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RedBlackBST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayBag<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayBag",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayQueue<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayQueue",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ResizingArrayStack<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ResizingArrayStack",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLength<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.RunLength",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SET<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SET",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SegmentTree<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SegmentTree",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Selection<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Selection",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SeparateChainingHashST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SeparateChainingHashST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SequentialSearchST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SequentialSearchST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shell<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Shell",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparseVector<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SparseVector",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stack",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdArrayIO<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdArrayIO",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdAudio<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdAudio",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdDraw<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdDraw",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdIn<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdIn",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdOut<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdOut",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdRandom<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdRandom",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StdStats<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StdStats",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stopwatch<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Stopwatch",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StopwatchCPU<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.StopwatchCPU",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArray<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArray",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixArrayX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SuffixArrayX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolDigraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolDigraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SymbolGraph<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.SymbolGraph",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TarjanSCC<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TarjanSCC",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSum<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSum",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeSumFast<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.ThreeSumFast",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopM<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopM",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Topological<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Topological",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalX<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TopologicalX",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Transaction<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Transaction",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransitiveClosure<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TransitiveClosure",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieSET<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieSET",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrieST<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TrieST",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoPersonZeroSumGame<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.TwoPersonZeroSumGame",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UF<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.UF",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Vector<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Vector",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WeightedQuickUnionUF<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WeightedQuickUnionUF",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteFilter<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.WhiteFilter",
+            "projectName": "Coll2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Whitelist<Coll2>",
+            "request": "launch",
+            "mainClass": "edu.princeton.cs.algs4.Whitelist",
+            "projectName": "Coll2"
+        }
+    ]
+}
