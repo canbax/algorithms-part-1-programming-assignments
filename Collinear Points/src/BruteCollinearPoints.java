@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Comparator;
 
 public class BruteCollinearPoints {
 
@@ -44,13 +43,13 @@ public class BruteCollinearPoints {
   // return np;
   // }
 
-  private Point getPointFromStr(String s) {
-    int x = Integer.parseInt(s.split(",")[0].replace("(", "").trim());
-    int y = Integer.parseInt(s.split(",")[1].replace(")", "").trim());
-    Point p = new Point(x, y);
+  // private Point getPointFromStr(String s) {
+  //   int x = Integer.parseInt(s.split(",")[0].replace("(", "").trim());
+  //   int y = Integer.parseInt(s.split(",")[1].replace(")", "").trim());
+  //   Point p = new Point(x, y);
 
-    return p;
-  }
+  //   return p;
+  // }
 
   // private LineSegment[] deepCopy(LineSegment[] ls){
   // int size = ls.length;

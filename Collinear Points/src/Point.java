@@ -105,7 +105,6 @@ public class Point implements Comparable<Point> {
 
       @Override
       public int compare(Point o1, Point o2) {
-        // TODO Auto-generated method stub
         double m1 = slopeTo(o1);
         double m2 = slopeTo(o2);
         if (m1 > m2)
